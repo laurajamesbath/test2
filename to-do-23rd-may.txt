@@ -1,0 +1,15 @@
+To do before we go on holiday:
+1) Invoice Sue Bo for Italian Solutions - extra for faffery
+2) Incvoice Digitoons
+3) Invoice other half of woodland warriors
+
+
+Buy hiar dye
+Piant toenails / pedicure
+buy camera?
+Work out what art materials I can take
+Instructions for chickens/cats/plants
+
+UPDATE `wp_posts` SET post_content = replace(post_content, 
+‘http://www.kineticpulse.co.uk/wordpress25/’
+,’http://www.101datasolutions.co.uk/’);
