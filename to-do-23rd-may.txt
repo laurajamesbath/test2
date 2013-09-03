@@ -13,3 +13,5 @@ Instructions for chickens/cats/plants
 UPDATE `wp_posts` SET post_content = replace(post_content, 
 ‘http://www.kineticpulse.co.uk/wordpress25/’
 ,’http://www.101datasolutions.co.uk/’);
+
+any idea?
